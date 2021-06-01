@@ -8,7 +8,7 @@
  *************************************************/
 
 /************ ↓↓↓↓↓ 如果网易云音乐歌曲获取失效，请将你的 COOKIE 放到这儿 ↓↓↓↓↓ ***************/
-$netease_cookie = '';
+$netease_cookie = 'JSESSIONID-WYYY=SlNEsbPEpbsHSDnO%2BsY8i4dF%2Bqk0E7ahrRTJpVSVbbVEVg7gG83icEtS9IbM7%2B%5CVrE%2FYwFAEBkFVY%5CxaCr7WnQcamxkGJdk5kt05yd7N%5CcX0fmSGSmvF8f5zIs7a8xNmwuHxz%2FTb5YW0vEUHJZTwwfTK8c%2Fmj%5CDugZigV8zHryazW875%3A1622514987314; _iuqxldmzr_=32; _ntes_nnid=f4f9d591871d8bec485efcd72d2847b7,1622513187386; _ntes_nuid=f4f9d591871d8bec485efcd72d2847b7; NMTID=00Otv3n3sBVt-rVGkt2nqj9WQCyCS0AAAF5xVJ-iw; WM_NI=4OwEotglz04dH3V8opaY6P%2FaA%2F4maWHIbiL7yhhf9wTf4Z5uCkCcL%2BiHfncXMrLjql5QBw%2FALiGyoiBWADHky6Kxi01Xv8MSpurHVmMp%2FPKsPa0pTRLrHgZX7FSM3GWEVnM%3D; WM_NIKE=9ca17ae2e6ffcda170e2e6eea4eb80b1b58fdac848a9868eb2c14a968a9aabf57db39ba384fb62919f8dd1b72af0fea7c3b92af891b9a6ee80a5b4b6d1b7708ced9ad9ee7ca387fab1ae6b83f1fc8ee45d8c97ae8acf3dbbb8a887bc7d98bafcbbb87f81b58d84cf21ab98aa8fe2548fae848bf468f78f8e98ae4b90b7899aee6382898fa5cb61bbea8599ec3cf388bad9d059b4abbea9d5678fb0e1b1ca7994bf0091d75a90ae8888d954f59a9daeb24d959b9a8fd037e2a3; WM_TID=tQWqXSwgtitFERFREVY%2BxvBicliDQDwt';
 /************ ↑↑↑↑↑ 如果网易云音乐歌曲获取失效，请将你的 COOKIE 放到这儿 ↑↑↑↑↑ ***************/
 /**
 * cookie 获取及使用方法见 
